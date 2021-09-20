@@ -1,0 +1,10 @@
+body {
+    font-family: Roboto;
+    color: #130410;
+    background-color: rgb(220, 217, 223);
+}
+.jumbotron {
+    background-image: url("testtubes.png");
+    background-size: 100% 100%;
+    text-align: center;
+}
